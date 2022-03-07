@@ -1,0 +1,5 @@
+#Start of stimulus#
+load 150e6 1.0,0.0,0.0 ud
+support fixed 250.0,0.0,250.0 500.0 inverse_R
+support fixed 0.0,0.0,600.0 500.0 inverse_R
+#End of stimulus#

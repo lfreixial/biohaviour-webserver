@@ -1,0 +1,12 @@
+Program starting at time - 1617130835.1643465
+Growth execution time for iteration number 1 is - 0.005583524703979492
+Growth execution time for iteration number 2 is - 0.010646343231201172
+Growth execution time for iteration number 3 is - 0.026359081268310547
+Growth execution time for iteration number 4 is - 0.06562185287475586
+Growth execution time for iteration number 5 is - 0.12147212028503418
+Growth execution time for iteration number 6 is - 0.167680025100708
+Organism_0 took approximately 0.19712018966674805 seconds to grow.
+Time to write 16171308357312310_iPhoneSimpleTest_Organism_0with 50 cells took approx 0.020150423049926758s
+End of program!
+The program took 0.3283417224884033 seconds to execute.
+File complete

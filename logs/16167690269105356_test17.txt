@@ -1,0 +1,12 @@
+Program starting at time - 1616769026.5196037
+Growth execution time for iteration number 1 is - 0.004731655120849609
+Growth execution time for iteration number 2 is - 0.009593725204467773
+Growth execution time for iteration number 3 is - 0.025496959686279297
+Growth execution time for iteration number 4 is - 0.06455326080322266
+Growth execution time for iteration number 5 is - 0.11666131019592285
+Growth execution time for iteration number 6 is - 0.16477322578430176
+Organism_0 took approximately 0.19057679176330566 seconds to grow.
+Time to write 16167690269105356_test17_Organism_0with 50 cells took approx 0.020056724548339844s
+End of program!
+The program took 0.31380510330200195 seconds to execute.
+File complete

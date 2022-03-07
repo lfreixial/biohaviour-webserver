@@ -1,0 +1,19 @@
+#Start of Genes#
+length 100 1 100 200 1
+random 2.1 1 50 400 2
+lock_angle 45.0 1 100 200 1
+bud_check 75.0 1 100 200 1
+radius 0.5 1 100 200 1
+divide 1 1 100 200 1
+bud 1 1 100 200 1
+tilt_r 0.0 1 100 200 1
+tilt_l 0.0 1 100 200 1
+xbar_h 0.0 1 100 200 1
+ybar_h 0.0 1 100 200 1
+cross_section 0.0 1 100 200 1
+square 0.0 1 100 200 1
+b 10.0 1 100 200 1
+d 10.0 1 100 200 1
+square 1 1 100 200 1
+cross_section 0.0 1 100 200 1
+#End of Genes#

@@ -1,0 +1,34 @@
+Program starting at time - 1616884424.017906
+Growth execution time for iteration number 1 is - 0.004759073257446289
+Growth execution time for iteration number 2 is - 0.01006937026977539
+Growth execution time for iteration number 3 is - 0.015529394149780273
+Growth execution time for iteration number 4 is - 0.02760767936706543
+Growth execution time for iteration number 5 is - 0.06902551651000977
+Growth execution time for iteration number 6 is - 0.08859086036682129
+Organism_0 took approximately 0.1050870418548584 seconds to grow.
+Growth execution time for iteration number 1 is - 0.004832267761230469
+Growth execution time for iteration number 2 is - 0.009836196899414062
+Growth execution time for iteration number 3 is - 0.0218198299407959
+Growth execution time for iteration number 4 is - 0.03917193412780762
+Organism_1 took approximately 0.04867196083068848 seconds to grow.
+Growth execution time for iteration number 1 is - 0.004298210144042969
+Growth execution time for iteration number 2 is - 0.009879350662231445
+Growth execution time for iteration number 3 is - 0.01466226577758789
+Growth execution time for iteration number 4 is - 0.026320934295654297
+Growth execution time for iteration number 5 is - 0.04109525680541992
+Growth execution time for iteration number 6 is - 0.04594230651855469
+Organism_0 took approximately 0.05624675750732422 seconds to grow.
+Growth execution time for iteration number 1 is - 0.004102230072021484
+Growth execution time for iteration number 2 is - 0.01636958122253418
+Growth execution time for iteration number 3 is - 0.025353431701660156
+Growth execution time for iteration number 4 is - 0.03542733192443848
+Growth execution time for iteration number 5 is - 0.05629849433898926
+Growth execution time for iteration number 6 is - 0.0939018726348877
+Growth execution time for iteration number 7 is - 0.16353893280029297
+Growth execution time for iteration number 8 is - 0.30235886573791504
+Organism_1 took approximately 0.3582112789154053 seconds to grow.
+Time to write Gen1_16168844243943716_LetsTryThis_Organism_0with 13 cells took approx 0.0050449371337890625s
+Time to write Gen1_16168844243943716_LetsTryThis_Organism_1with 105 cells took approx 0.03847074508666992s
+End of program!
+The program took 0.7849311828613281 seconds to execute.
+File complete

@@ -1,0 +1,30 @@
+Program starting at time - 1616960430.3695552
+Growth execution time for iteration number 1 is - 0.006470918655395508
+Growth execution time for iteration number 2 is - 0.022451400756835938
+Growth execution time for iteration number 3 is - 0.06715726852416992
+Growth execution time for iteration number 4 is - 0.20509958267211914
+Growth execution time for iteration number 5 is - 0.6490416526794434
+Growth execution time for iteration number 6 is - 1.3392231464385986
+Growth execution time for iteration number 7 is - 1.782581090927124
+Organism_0 took approximately 2.137204885482788 seconds to grow.
+Growth execution time for iteration number 1 is - 0.006357908248901367
+Growth execution time for iteration number 2 is - 0.02202582359313965
+Growth execution time for iteration number 3 is - 0.03789043426513672
+Growth execution time for iteration number 4 is - 0.06479024887084961
+Growth execution time for iteration number 5 is - 0.07918953895568848
+Organism_1 took approximately 0.09764337539672852 seconds to grow.
+Growth execution time for iteration number 1 is - 0.0063800811767578125
+Growth execution time for iteration number 2 is - 0.02211904525756836
+Growth execution time for iteration number 3 is - 0.06052899360656738
+Growth execution time for iteration number 4 is - 0.1648244857788086
+Growth execution time for iteration number 5 is - 0.31187915802001953
+Organism_0 took approximately 0.3653597831726074 seconds to grow.
+Growth execution time for iteration number 1 is - 0.006134033203125
+Growth execution time for iteration number 2 is - 0.021488428115844727
+Growth execution time for iteration number 3 is - 0.03080153465270996
+Organism_1 took approximately 0.03980278968811035 seconds to grow.
+Time to write Gen1_16169604308369378_sakil_test22_Organism_0with 99 cells took approx 0.037149667739868164s
+Time to write Gen1_16169604308369378_sakil_test22_Organism_1with 12 cells took approx 0.004052877426147461s
+End of program!
+The program took 2.931565761566162 seconds to execute.
+File complete

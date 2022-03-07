@@ -1,0 +1,12 @@
+Program starting at time - 1617982363.5962532
+Growth execution time for iteration number 1 is - 0.004840850830078125
+Growth execution time for iteration number 2 is - 0.009320735931396484
+Growth execution time for iteration number 3 is - 0.025433063507080078
+Growth execution time for iteration number 4 is - 0.06307315826416016
+Growth execution time for iteration number 5 is - 0.1204826831817627
+Growth execution time for iteration number 6 is - 0.16860651969909668
+Organism_0 took approximately 0.19735264778137207 seconds to grow.
+Time to write 16179823644647615_newFilePathTest_Organism_0with 50 cells took approx 0.022577524185180664s
+End of program!
+The program took 0.3262486457824707 seconds to execute.
+File complete

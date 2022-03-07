@@ -1,0 +1,2069 @@
+Program starting at time - 1616766134.2781885
+
+Growth execution time for iteration number 1 is - 0.006314516067504883
+
+Growth execution time for iteration number 2 is - 0.012824058532714844
+
+Growth execution time for iteration number 3 is - 0.018608570098876953
+
+Growth execution time for iteration number 4 is - 0.02440333366394043
+
+Growth execution time for iteration number 5 is - 0.029288053512573242
+
+Growth execution time for iteration number 6 is - 0.03547859191894531
+
+Growth execution time for iteration number 7 is - 0.04114556312561035
+
+Growth execution time for iteration number 8 is - 0.04709911346435547
+
+Growth execution time for iteration number 9 is - 0.05371975898742676
+
+Growth execution time for iteration number 10 is - 0.055345773696899414
+
+Growth execution time for iteration number 11 is - 0.05673694610595703
+
+Growth execution time for iteration number 12 is - 0.058280229568481445
+
+Growth execution time for iteration number 13 is - 0.059676170349121094
+
+Growth execution time for iteration number 14 is - 0.06172060966491699
+
+Growth execution time for iteration number 15 is - 0.0640571117401123
+
+Growth execution time for iteration number 16 is - 0.06585812568664551
+
+Growth execution time for iteration number 17 is - 0.06746864318847656
+
+Growth execution time for iteration number 18 is - 0.06938052177429199
+
+Growth execution time for iteration number 19 is - 0.07118988037109375
+
+Growth execution time for iteration number 20 is - 0.07264065742492676
+
+Growth execution time for iteration number 21 is - 0.07405734062194824
+
+Growth execution time for iteration number 22 is - 0.07559800148010254
+
+Growth execution time for iteration number 23 is - 0.0770714282989502
+
+Growth execution time for iteration number 24 is - 0.07887935638427734
+
+Growth execution time for iteration number 25 is - 0.08057451248168945
+
+Growth execution time for iteration number 26 is - 0.08217835426330566
+
+Growth execution time for iteration number 27 is - 0.08378291130065918
+
+Growth execution time for iteration number 28 is - 0.08542275428771973
+
+Growth execution time for iteration number 29 is - 0.08701801300048828
+
+Growth execution time for iteration number 30 is - 0.08859109878540039
+
+Growth execution time for iteration number 31 is - 0.09009552001953125
+
+Growth execution time for iteration number 32 is - 0.0916128158569336
+
+Growth execution time for iteration number 33 is - 0.09317278861999512
+
+Growth execution time for iteration number 34 is - 0.09489941596984863
+
+Growth execution time for iteration number 35 is - 0.09633302688598633
+
+Growth execution time for iteration number 36 is - 0.09793233871459961
+
+Growth execution time for iteration number 37 is - 0.09938693046569824
+
+Growth execution time for iteration number 38 is - 0.10097599029541016
+
+Growth execution time for iteration number 39 is - 0.10258126258850098
+
+Growth execution time for iteration number 40 is - 0.10427260398864746
+
+Growth execution time for iteration number 41 is - 0.10615873336791992
+
+Growth execution time for iteration number 42 is - 0.10807943344116211
+
+Growth execution time for iteration number 43 is - 0.11009001731872559
+
+Growth execution time for iteration number 44 is - 0.1117238998413086
+
+Growth execution time for iteration number 45 is - 0.11330556869506836
+
+Growth execution time for iteration number 46 is - 0.11482048034667969
+
+Growth execution time for iteration number 47 is - 0.11635470390319824
+
+Growth execution time for iteration number 48 is - 0.11797785758972168
+
+Growth execution time for iteration number 49 is - 0.11952638626098633
+
+Growth execution time for iteration number 50 is - 0.12161564826965332
+
+Growth execution time for iteration number 51 is - 0.12305665016174316
+
+Growth execution time for iteration number 52 is - 0.12478995323181152
+
+Growth execution time for iteration number 53 is - 0.1266157627105713
+
+Growth execution time for iteration number 54 is - 0.12868070602416992
+
+Growth execution time for iteration number 55 is - 0.1303856372833252
+
+Growth execution time for iteration number 56 is - 0.1323239803314209
+
+Growth execution time for iteration number 57 is - 0.1341722011566162
+
+Growth execution time for iteration number 58 is - 0.13579297065734863
+
+Growth execution time for iteration number 59 is - 0.1375570297241211
+
+Growth execution time for iteration number 60 is - 0.13965415954589844
+
+Growth execution time for iteration number 61 is - 0.14188694953918457
+
+Growth execution time for iteration number 62 is - 0.14370059967041016
+
+Growth execution time for iteration number 63 is - 0.1451709270477295
+
+Growth execution time for iteration number 64 is - 0.14670443534851074
+
+Growth execution time for iteration number 65 is - 0.14819693565368652
+
+Growth execution time for iteration number 66 is - 0.14957666397094727
+
+Growth execution time for iteration number 67 is - 0.1508808135986328
+
+Growth execution time for iteration number 68 is - 0.15222883224487305
+
+Growth execution time for iteration number 69 is - 0.15358853340148926
+
+Growth execution time for iteration number 70 is - 0.15515351295471191
+
+Growth execution time for iteration number 71 is - 0.15843486785888672
+
+Growth execution time for iteration number 72 is - 0.16068172454833984
+
+Growth execution time for iteration number 73 is - 0.16211295127868652
+
+Growth execution time for iteration number 74 is - 0.1637437343597412
+
+Growth execution time for iteration number 75 is - 0.16531920433044434
+
+Growth execution time for iteration number 76 is - 0.1669325828552246
+
+Growth execution time for iteration number 77 is - 0.16859650611877441
+
+Growth execution time for iteration number 78 is - 0.1701831817626953
+
+Growth execution time for iteration number 79 is - 0.17316484451293945
+
+Growth execution time for iteration number 80 is - 0.17467880249023438
+
+Growth execution time for iteration number 81 is - 0.1762681007385254
+
+Growth execution time for iteration number 82 is - 0.1780993938446045
+
+Growth execution time for iteration number 83 is - 0.17980456352233887
+
+Growth execution time for iteration number 84 is - 0.18144536018371582
+
+Growth execution time for iteration number 85 is - 0.182830810546875
+
+Growth execution time for iteration number 86 is - 0.18426823616027832
+
+Growth execution time for iteration number 87 is - 0.18572330474853516
+
+Growth execution time for iteration number 88 is - 0.18905878067016602
+
+Growth execution time for iteration number 89 is - 0.190781831741333
+
+Growth execution time for iteration number 90 is - 0.19223785400390625
+
+Growth execution time for iteration number 91 is - 0.19365477561950684
+
+Growth execution time for iteration number 92 is - 0.19516825675964355
+
+Growth execution time for iteration number 93 is - 0.19665098190307617
+
+Growth execution time for iteration number 94 is - 0.19829201698303223
+
+Growth execution time for iteration number 95 is - 0.19976043701171875
+
+Growth execution time for iteration number 96 is - 0.20143342018127441
+
+Growth execution time for iteration number 97 is - 0.2033097743988037
+
+Growth execution time for iteration number 98 is - 0.20475125312805176
+
+Growth execution time for iteration number 99 is - 0.2061748504638672
+
+Growth execution time for iteration number 100 is - 0.2075331211090088
+
+Growth execution time for iteration number 101 is - 0.20907330513000488
+
+Growth execution time for iteration number 102 is - 0.2104020118713379
+
+Growth execution time for iteration number 103 is - 0.21164488792419434
+
+Growth execution time for iteration number 104 is - 0.2131214141845703
+
+Growth execution time for iteration number 105 is - 0.21454668045043945
+
+Growth execution time for iteration number 106 is - 0.2158968448638916
+
+Growth execution time for iteration number 107 is - 0.21709680557250977
+
+Growth execution time for iteration number 108 is - 0.21901154518127441
+
+Growth execution time for iteration number 109 is - 0.22057175636291504
+
+Growth execution time for iteration number 110 is - 0.2221050262451172
+
+Growth execution time for iteration number 111 is - 0.2235267162322998
+
+Growth execution time for iteration number 112 is - 0.22532415390014648
+
+Growth execution time for iteration number 113 is - 0.22724652290344238
+
+Growth execution time for iteration number 114 is - 0.22872614860534668
+
+Growth execution time for iteration number 115 is - 0.23032855987548828
+
+Growth execution time for iteration number 116 is - 0.23194432258605957
+
+Growth execution time for iteration number 117 is - 0.23356032371520996
+
+Growth execution time for iteration number 118 is - 0.23521947860717773
+
+Growth execution time for iteration number 119 is - 0.23664021492004395
+
+Growth execution time for iteration number 120 is - 0.23821425437927246
+
+Growth execution time for iteration number 121 is - 0.23968005180358887
+
+Growth execution time for iteration number 122 is - 0.2411496639251709
+
+Growth execution time for iteration number 123 is - 0.24258017539978027
+
+Growth execution time for iteration number 124 is - 0.24391770362854004
+
+Growth execution time for iteration number 125 is - 0.24521350860595703
+
+Growth execution time for iteration number 126 is - 0.24671697616577148
+
+Growth execution time for iteration number 127 is - 0.24828815460205078
+
+Growth execution time for iteration number 128 is - 0.2501339912414551
+
+Growth execution time for iteration number 129 is - 0.2515277862548828
+
+Growth execution time for iteration number 130 is - 0.25308990478515625
+
+Growth execution time for iteration number 131 is - 0.2549002170562744
+
+Growth execution time for iteration number 132 is - 0.25679636001586914
+
+Growth execution time for iteration number 133 is - 0.2583608627319336
+
+Growth execution time for iteration number 134 is - 0.25970458984375
+
+Growth execution time for iteration number 135 is - 0.26146650314331055
+
+Growth execution time for iteration number 136 is - 0.26329469680786133
+
+Growth execution time for iteration number 137 is - 0.2647523880004883
+
+Growth execution time for iteration number 138 is - 0.2701995372772217
+
+Growth execution time for iteration number 139 is - 0.2721140384674072
+
+Growth execution time for iteration number 140 is - 0.2737584114074707
+
+Growth execution time for iteration number 141 is - 0.27548766136169434
+
+Growth execution time for iteration number 142 is - 0.2768595218658447
+
+Growth execution time for iteration number 143 is - 0.27831077575683594
+
+Growth execution time for iteration number 144 is - 0.27977752685546875
+
+Growth execution time for iteration number 145 is - 0.28237438201904297
+
+Growth execution time for iteration number 146 is - 0.2837696075439453
+
+Growth execution time for iteration number 147 is - 0.28538012504577637
+
+Growth execution time for iteration number 148 is - 0.2868471145629883
+
+Growth execution time for iteration number 149 is - 0.2881901264190674
+
+Growth execution time for iteration number 150 is - 0.2896149158477783
+
+Growth execution time for iteration number 151 is - 0.29107165336608887
+
+Growth execution time for iteration number 152 is - 0.29253315925598145
+
+Growth execution time for iteration number 153 is - 0.29414916038513184
+
+Growth execution time for iteration number 154 is - 0.29590630531311035
+
+Growth execution time for iteration number 155 is - 0.29776692390441895
+
+Growth execution time for iteration number 156 is - 0.2992520332336426
+
+Growth execution time for iteration number 157 is - 0.30061984062194824
+
+Growth execution time for iteration number 158 is - 0.30229759216308594
+
+Growth execution time for iteration number 159 is - 0.3042640686035156
+
+Growth execution time for iteration number 160 is - 0.3058750629425049
+
+Growth execution time for iteration number 161 is - 0.3075740337371826
+
+Growth execution time for iteration number 162 is - 0.3090682029724121
+
+Growth execution time for iteration number 163 is - 0.31099581718444824
+
+Growth execution time for iteration number 164 is - 0.31313037872314453
+
+Growth execution time for iteration number 165 is - 0.31467700004577637
+
+Growth execution time for iteration number 166 is - 0.31605005264282227
+
+Growth execution time for iteration number 167 is - 0.31743693351745605
+
+Growth execution time for iteration number 168 is - 0.3189053535461426
+
+Growth execution time for iteration number 169 is - 0.32042813301086426
+
+Growth execution time for iteration number 170 is - 0.322113037109375
+
+Growth execution time for iteration number 171 is - 0.3236818313598633
+
+Growth execution time for iteration number 172 is - 0.32508039474487305
+
+Growth execution time for iteration number 173 is - 0.3264298439025879
+
+Growth execution time for iteration number 174 is - 0.3282191753387451
+
+Growth execution time for iteration number 175 is - 0.32978105545043945
+
+Growth execution time for iteration number 176 is - 0.3310680389404297
+
+Growth execution time for iteration number 177 is - 0.33237361907958984
+
+Growth execution time for iteration number 178 is - 0.33376193046569824
+
+Growth execution time for iteration number 179 is - 0.3351247310638428
+
+Growth execution time for iteration number 180 is - 0.3363509178161621
+
+Growth execution time for iteration number 181 is - 0.33789777755737305
+
+Growth execution time for iteration number 182 is - 0.339169979095459
+
+Growth execution time for iteration number 183 is - 0.34076404571533203
+
+Growth execution time for iteration number 184 is - 0.34270453453063965
+
+Growth execution time for iteration number 185 is - 0.345226526260376
+
+Growth execution time for iteration number 186 is - 0.34694433212280273
+
+Growth execution time for iteration number 187 is - 0.34876155853271484
+
+Growth execution time for iteration number 188 is - 0.3504638671875
+
+Growth execution time for iteration number 189 is - 0.3519115447998047
+
+Growth execution time for iteration number 190 is - 0.3534355163574219
+
+Growth execution time for iteration number 191 is - 0.35518884658813477
+
+Growth execution time for iteration number 192 is - 0.35713958740234375
+
+Growth execution time for iteration number 193 is - 0.35869669914245605
+
+Growth execution time for iteration number 194 is - 0.3605501651763916
+
+Growth execution time for iteration number 195 is - 0.3623800277709961
+
+Growth execution time for iteration number 196 is - 0.3644599914550781
+
+Growth execution time for iteration number 197 is - 0.36580443382263184
+
+Growth execution time for iteration number 198 is - 0.3674943447113037
+
+Growth execution time for iteration number 199 is - 0.3690309524536133
+
+Growth execution time for iteration number 200 is - 0.37088775634765625
+
+Growth execution time for iteration number 201 is - 0.37243151664733887
+
+Growth execution time for iteration number 202 is - 0.37380003929138184
+
+Growth execution time for iteration number 203 is - 0.3759634494781494
+
+Growth execution time for iteration number 204 is - 0.377683162689209
+
+Growth execution time for iteration number 205 is - 0.3791618347167969
+
+Growth execution time for iteration number 206 is - 0.38054466247558594
+
+Growth execution time for iteration number 207 is - 0.3821091651916504
+
+Growth execution time for iteration number 208 is - 0.3839888572692871
+
+Growth execution time for iteration number 209 is - 0.38553953170776367
+
+Growth execution time for iteration number 210 is - 0.3872647285461426
+
+Growth execution time for iteration number 211 is - 0.38864612579345703
+
+Growth execution time for iteration number 212 is - 0.3919057846069336
+
+Growth execution time for iteration number 213 is - 0.3935527801513672
+
+Growth execution time for iteration number 214 is - 0.3950831890106201
+
+Growth execution time for iteration number 215 is - 0.3966231346130371
+
+Growth execution time for iteration number 216 is - 0.3982882499694824
+
+Growth execution time for iteration number 217 is - 0.40019845962524414
+
+Growth execution time for iteration number 218 is - 0.4016599655151367
+
+Growth execution time for iteration number 219 is - 0.4033699035644531
+
+Growth execution time for iteration number 220 is - 0.404865026473999
+
+Growth execution time for iteration number 221 is - 0.4064161777496338
+
+Growth execution time for iteration number 222 is - 0.40797901153564453
+
+Growth execution time for iteration number 223 is - 0.409379243850708
+
+Growth execution time for iteration number 224 is - 0.4108922481536865
+
+Growth execution time for iteration number 225 is - 0.41242122650146484
+
+Growth execution time for iteration number 226 is - 0.4141557216644287
+
+Growth execution time for iteration number 227 is - 0.4159963130950928
+
+Growth execution time for iteration number 228 is - 0.41745996475219727
+
+Growth execution time for iteration number 229 is - 0.41919684410095215
+
+Growth execution time for iteration number 230 is - 0.420759916305542
+
+Growth execution time for iteration number 231 is - 0.4224514961242676
+
+Growth execution time for iteration number 232 is - 0.42431139945983887
+
+Growth execution time for iteration number 233 is - 0.4258580207824707
+
+Growth execution time for iteration number 234 is - 0.42724037170410156
+
+Growth execution time for iteration number 235 is - 0.42864465713500977
+
+Growth execution time for iteration number 236 is - 0.42999768257141113
+
+Growth execution time for iteration number 237 is - 0.43161892890930176
+
+Growth execution time for iteration number 238 is - 0.4329547882080078
+
+Growth execution time for iteration number 239 is - 0.4344468116760254
+
+Growth execution time for iteration number 240 is - 0.43580007553100586
+
+Growth execution time for iteration number 241 is - 0.4372429847717285
+
+Growth execution time for iteration number 242 is - 0.4389970302581787
+
+Growth execution time for iteration number 243 is - 0.4404878616333008
+
+Growth execution time for iteration number 244 is - 0.4421689510345459
+
+Growth execution time for iteration number 245 is - 0.44358086585998535
+
+Growth execution time for iteration number 246 is - 0.444957971572876
+
+Growth execution time for iteration number 247 is - 0.4463462829589844
+
+Growth execution time for iteration number 248 is - 0.4477875232696533
+
+Growth execution time for iteration number 249 is - 0.4492361545562744
+
+Growth execution time for iteration number 250 is - 0.45058608055114746
+
+Growth execution time for iteration number 251 is - 0.45209717750549316
+
+Growth execution time for iteration number 252 is - 0.4572410583496094
+
+Growth execution time for iteration number 253 is - 0.45891261100769043
+
+Growth execution time for iteration number 254 is - 0.46021342277526855
+
+Growth execution time for iteration number 255 is - 0.4615135192871094
+
+Growth execution time for iteration number 256 is - 0.46277904510498047
+
+Growth execution time for iteration number 257 is - 0.46440744400024414
+
+Growth execution time for iteration number 258 is - 0.46619153022766113
+
+Growth execution time for iteration number 259 is - 0.46770429611206055
+
+Growth execution time for iteration number 260 is - 0.46933746337890625
+
+Growth execution time for iteration number 261 is - 0.4709134101867676
+
+Growth execution time for iteration number 262 is - 0.4723794460296631
+
+Growth execution time for iteration number 263 is - 0.4739060401916504
+
+Growth execution time for iteration number 264 is - 0.4753224849700928
+
+Growth execution time for iteration number 265 is - 0.47699403762817383
+
+Growth execution time for iteration number 266 is - 0.47835612297058105
+
+Growth execution time for iteration number 267 is - 0.47999143600463867
+
+Growth execution time for iteration number 268 is - 0.48146677017211914
+
+Growth execution time for iteration number 269 is - 0.482771635055542
+
+Growth execution time for iteration number 270 is - 0.48456835746765137
+
+Growth execution time for iteration number 271 is - 0.48604559898376465
+
+Growth execution time for iteration number 272 is - 0.4875962734222412
+
+Growth execution time for iteration number 273 is - 0.4893674850463867
+
+Growth execution time for iteration number 274 is - 0.4908123016357422
+
+Growth execution time for iteration number 275 is - 0.4921298027038574
+
+Growth execution time for iteration number 276 is - 0.4939701557159424
+
+Growth execution time for iteration number 277 is - 0.4955601692199707
+
+Growth execution time for iteration number 278 is - 0.4969141483306885
+
+Growth execution time for iteration number 279 is - 0.4983100891113281
+
+Growth execution time for iteration number 280 is - 0.5080249309539795
+
+Growth execution time for iteration number 281 is - 0.5095627307891846
+
+Growth execution time for iteration number 282 is - 0.5110719203948975
+
+Growth execution time for iteration number 283 is - 0.5123591423034668
+
+Growth execution time for iteration number 284 is - 0.5138227939605713
+
+Growth execution time for iteration number 285 is - 0.5188570022583008
+
+Growth execution time for iteration number 286 is - 0.5203545093536377
+
+Growth execution time for iteration number 287 is - 0.5218102931976318
+
+Growth execution time for iteration number 288 is - 0.5230197906494141
+
+Growth execution time for iteration number 289 is - 0.5243813991546631
+
+Growth execution time for iteration number 290 is - 0.5260787010192871
+
+Growth execution time for iteration number 291 is - 0.5276844501495361
+
+Growth execution time for iteration number 292 is - 0.5290486812591553
+
+Growth execution time for iteration number 293 is - 0.5303559303283691
+
+Growth execution time for iteration number 294 is - 0.5320439338684082
+
+Growth execution time for iteration number 295 is - 0.5332927703857422
+
+Growth execution time for iteration number 296 is - 0.5346086025238037
+
+Growth execution time for iteration number 297 is - 0.5358302593231201
+
+Growth execution time for iteration number 298 is - 0.5371835231781006
+
+Growth execution time for iteration number 299 is - 0.538447380065918
+
+Growth execution time for iteration number 300 is - 0.5397293567657471
+
+Growth execution time for iteration number 301 is - 0.5410840511322021
+
+Growth execution time for iteration number 302 is - 0.5425188541412354
+
+Growth execution time for iteration number 303 is - 0.5442488193511963
+
+Growth execution time for iteration number 304 is - 0.5460648536682129
+
+Growth execution time for iteration number 305 is - 0.5479810237884521
+
+Growth execution time for iteration number 306 is - 0.5498998165130615
+
+Growth execution time for iteration number 307 is - 0.5515422821044922
+
+Growth execution time for iteration number 308 is - 0.5528333187103271
+
+Growth execution time for iteration number 309 is - 0.5542569160461426
+
+Growth execution time for iteration number 310 is - 0.5558536052703857
+
+Growth execution time for iteration number 311 is - 0.5574121475219727
+
+Growth execution time for iteration number 312 is - 0.559098482131958
+
+Growth execution time for iteration number 313 is - 0.5605518817901611
+
+Growth execution time for iteration number 314 is - 0.5620396137237549
+
+Growth execution time for iteration number 315 is - 0.5636312961578369
+
+Growth execution time for iteration number 316 is - 0.5649251937866211
+
+Growth execution time for iteration number 317 is - 0.566265344619751
+
+Growth execution time for iteration number 318 is - 0.5679099559783936
+
+Growth execution time for iteration number 319 is - 0.5694832801818848
+
+Growth execution time for iteration number 320 is - 0.5708296298980713
+
+Growth execution time for iteration number 321 is - 0.5721073150634766
+
+Growth execution time for iteration number 322 is - 0.5734035968780518
+
+Growth execution time for iteration number 323 is - 0.5746502876281738
+
+Growth execution time for iteration number 324 is - 0.5760467052459717
+
+Growth execution time for iteration number 325 is - 0.577460527420044
+
+Growth execution time for iteration number 326 is - 0.5791146755218506
+
+Growth execution time for iteration number 327 is - 0.5803723335266113
+
+Growth execution time for iteration number 328 is - 0.5817863941192627
+
+Growth execution time for iteration number 329 is - 0.5834791660308838
+
+Growth execution time for iteration number 330 is - 0.584930419921875
+
+Growth execution time for iteration number 331 is - 0.5863828659057617
+
+Growth execution time for iteration number 332 is - 0.5881164073944092
+
+Growth execution time for iteration number 333 is - 0.5895864963531494
+
+Growth execution time for iteration number 334 is - 0.5911469459533691
+
+Growth execution time for iteration number 335 is - 0.5926163196563721
+
+Growth execution time for iteration number 336 is - 0.5942122936248779
+
+Growth execution time for iteration number 337 is - 0.595595121383667
+
+Growth execution time for iteration number 338 is - 0.5970702171325684
+
+Growth execution time for iteration number 339 is - 0.5987322330474854
+
+Growth execution time for iteration number 340 is - 0.6003832817077637
+
+Growth execution time for iteration number 341 is - 0.601966142654419
+
+Growth execution time for iteration number 342 is - 0.6035022735595703
+
+Growth execution time for iteration number 343 is - 0.6049435138702393
+
+Growth execution time for iteration number 344 is - 0.6064555644989014
+
+Growth execution time for iteration number 345 is - 0.6077744960784912
+
+Growth execution time for iteration number 346 is - 0.6092181205749512
+
+Growth execution time for iteration number 347 is - 0.610541820526123
+
+Growth execution time for iteration number 348 is - 0.6119706630706787
+
+Growth execution time for iteration number 349 is - 0.6134152412414551
+
+Growth execution time for iteration number 350 is - 0.6147680282592773
+
+Growth execution time for iteration number 351 is - 0.616187334060669
+
+Growth execution time for iteration number 352 is - 0.6175293922424316
+
+Growth execution time for iteration number 353 is - 0.6188139915466309
+
+Growth execution time for iteration number 354 is - 0.6204719543457031
+
+Growth execution time for iteration number 355 is - 0.6218268871307373
+
+Growth execution time for iteration number 356 is - 0.6235096454620361
+
+Growth execution time for iteration number 357 is - 0.6259133815765381
+
+Growth execution time for iteration number 358 is - 0.627469539642334
+
+Growth execution time for iteration number 359 is - 0.6291036605834961
+
+Growth execution time for iteration number 360 is - 0.630746603012085
+
+Growth execution time for iteration number 361 is - 0.6322104930877686
+
+Growth execution time for iteration number 362 is - 0.6337473392486572
+
+Growth execution time for iteration number 363 is - 0.6353366374969482
+
+Growth execution time for iteration number 364 is - 0.638324499130249
+
+Growth execution time for iteration number 365 is - 0.6403710842132568
+
+Growth execution time for iteration number 366 is - 0.6422379016876221
+
+Growth execution time for iteration number 367 is - 0.6440780162811279
+
+Growth execution time for iteration number 368 is - 0.6456260681152344
+
+Growth execution time for iteration number 369 is - 0.6474380493164062
+
+Growth execution time for iteration number 370 is - 0.6491866111755371
+
+Growth execution time for iteration number 371 is - 0.650916337966919
+
+Growth execution time for iteration number 372 is - 0.6523144245147705
+
+Growth execution time for iteration number 373 is - 0.6536781787872314
+
+Growth execution time for iteration number 374 is - 0.6552169322967529
+
+Growth execution time for iteration number 375 is - 0.657207727432251
+
+Growth execution time for iteration number 376 is - 0.6590251922607422
+
+Growth execution time for iteration number 377 is - 0.6607556343078613
+
+Growth execution time for iteration number 378 is - 0.6622796058654785
+
+Growth execution time for iteration number 379 is - 0.6640710830688477
+
+Growth execution time for iteration number 380 is - 0.665745735168457
+
+Growth execution time for iteration number 381 is - 0.6677641868591309
+
+Growth execution time for iteration number 382 is - 0.669992208480835
+
+Growth execution time for iteration number 383 is - 0.672316312789917
+
+Growth execution time for iteration number 384 is - 0.6750109195709229
+
+Growth execution time for iteration number 385 is - 0.676861047744751
+
+Growth execution time for iteration number 386 is - 0.6785221099853516
+
+Growth execution time for iteration number 387 is - 0.6803128719329834
+
+Growth execution time for iteration number 388 is - 0.6821434497833252
+
+Growth execution time for iteration number 389 is - 0.683568000793457
+
+Growth execution time for iteration number 390 is - 0.6851482391357422
+
+Growth execution time for iteration number 391 is - 0.6865808963775635
+
+Growth execution time for iteration number 392 is - 0.6885991096496582
+
+Growth execution time for iteration number 393 is - 0.6905074119567871
+
+Growth execution time for iteration number 394 is - 0.6921038627624512
+
+Growth execution time for iteration number 395 is - 0.6936867237091064
+
+Growth execution time for iteration number 396 is - 0.6952600479125977
+
+Growth execution time for iteration number 397 is - 0.696972131729126
+
+Growth execution time for iteration number 398 is - 0.698575496673584
+
+Growth execution time for iteration number 399 is - 0.7000246047973633
+
+Growth execution time for iteration number 400 is - 0.7015383243560791
+
+Growth execution time for iteration number 401 is - 0.70316481590271
+
+Growth execution time for iteration number 402 is - 0.7046029567718506
+
+Growth execution time for iteration number 403 is - 0.7060003280639648
+
+Growth execution time for iteration number 404 is - 0.7073421478271484
+
+Growth execution time for iteration number 405 is - 0.7087018489837646
+
+Growth execution time for iteration number 406 is - 0.7101619243621826
+
+Growth execution time for iteration number 407 is - 0.7115185260772705
+
+Growth execution time for iteration number 408 is - 0.7135922908782959
+
+Growth execution time for iteration number 409 is - 0.7155303955078125
+
+Growth execution time for iteration number 410 is - 0.7180476188659668
+
+Growth execution time for iteration number 411 is - 0.7200689315795898
+
+Growth execution time for iteration number 412 is - 0.7217109203338623
+
+Growth execution time for iteration number 413 is - 0.7231607437133789
+
+Growth execution time for iteration number 414 is - 0.724717378616333
+
+Growth execution time for iteration number 415 is - 0.726470947265625
+
+Growth execution time for iteration number 416 is - 0.7283425331115723
+
+Growth execution time for iteration number 417 is - 0.7300517559051514
+
+Growth execution time for iteration number 418 is - 0.7317395210266113
+
+Growth execution time for iteration number 419 is - 0.733346700668335
+
+Growth execution time for iteration number 420 is - 0.7361910343170166
+
+Growth execution time for iteration number 421 is - 0.7378201484680176
+
+Growth execution time for iteration number 422 is - 0.73944091796875
+
+Growth execution time for iteration number 423 is - 0.7409052848815918
+
+Growth execution time for iteration number 424 is - 0.7423152923583984
+
+Growth execution time for iteration number 425 is - 0.7438430786132812
+
+Growth execution time for iteration number 426 is - 0.7452034950256348
+
+Growth execution time for iteration number 427 is - 0.7467398643493652
+
+Growth execution time for iteration number 428 is - 0.7481405735015869
+
+Growth execution time for iteration number 429 is - 0.7496747970581055
+
+Growth execution time for iteration number 430 is - 0.7512755393981934
+
+Growth execution time for iteration number 431 is - 0.7527711391448975
+
+Growth execution time for iteration number 432 is - 0.7542502880096436
+
+Growth execution time for iteration number 433 is - 0.7557387351989746
+
+Growth execution time for iteration number 434 is - 0.7572329044342041
+
+Growth execution time for iteration number 435 is - 0.7588150501251221
+
+Growth execution time for iteration number 436 is - 0.7603182792663574
+
+Growth execution time for iteration number 437 is - 0.7617654800415039
+
+Growth execution time for iteration number 438 is - 0.7631800174713135
+
+Growth execution time for iteration number 439 is - 0.7645604610443115
+
+Growth execution time for iteration number 440 is - 0.7664611339569092
+
+Growth execution time for iteration number 441 is - 0.7680590152740479
+
+Growth execution time for iteration number 442 is - 0.7697033882141113
+
+Growth execution time for iteration number 443 is - 0.7711629867553711
+
+Growth execution time for iteration number 444 is - 0.7726583480834961
+
+Growth execution time for iteration number 445 is - 0.7742006778717041
+
+Growth execution time for iteration number 446 is - 0.7755587100982666
+
+Growth execution time for iteration number 447 is - 0.7769770622253418
+
+Growth execution time for iteration number 448 is - 0.7785682678222656
+
+Growth execution time for iteration number 449 is - 0.780156135559082
+
+Growth execution time for iteration number 450 is - 0.7829196453094482
+
+Growth execution time for iteration number 451 is - 0.7845969200134277
+
+Growth execution time for iteration number 452 is - 0.7861790657043457
+
+Growth execution time for iteration number 453 is - 0.7875666618347168
+
+Growth execution time for iteration number 454 is - 0.7890455722808838
+
+Growth execution time for iteration number 455 is - 0.7905478477478027
+
+Growth execution time for iteration number 456 is - 0.7919542789459229
+
+Growth execution time for iteration number 457 is - 0.7933197021484375
+
+Growth execution time for iteration number 458 is - 0.794677734375
+
+Growth execution time for iteration number 459 is - 0.7961397171020508
+
+Growth execution time for iteration number 460 is - 0.7978606224060059
+
+Growth execution time for iteration number 461 is - 0.7993569374084473
+
+Growth execution time for iteration number 462 is - 0.8010962009429932
+
+Growth execution time for iteration number 463 is - 0.8024823665618896
+
+Growth execution time for iteration number 464 is - 0.8037824630737305
+
+Growth execution time for iteration number 465 is - 0.8051609992980957
+
+Growth execution time for iteration number 466 is - 0.8068580627441406
+
+Growth execution time for iteration number 467 is - 0.8083651065826416
+
+Growth execution time for iteration number 468 is - 0.8097314834594727
+
+Growth execution time for iteration number 469 is - 0.8111395835876465
+
+Growth execution time for iteration number 470 is - 0.8129386901855469
+
+Growth execution time for iteration number 471 is - 0.8143386840820312
+
+Growth execution time for iteration number 472 is - 0.8156507015228271
+
+Growth execution time for iteration number 473 is - 0.8171913623809814
+
+Growth execution time for iteration number 474 is - 0.8189070224761963
+
+Growth execution time for iteration number 475 is - 0.8204159736633301
+
+Growth execution time for iteration number 476 is - 0.8221402168273926
+
+Growth execution time for iteration number 477 is - 0.8237485885620117
+
+Growth execution time for iteration number 478 is - 0.8253095149993896
+
+Growth execution time for iteration number 479 is - 0.8271677494049072
+
+Growth execution time for iteration number 480 is - 0.82912278175354
+
+Growth execution time for iteration number 481 is - 0.8304212093353271
+
+Growth execution time for iteration number 482 is - 0.8317995071411133
+
+Growth execution time for iteration number 483 is - 0.8331453800201416
+
+Growth execution time for iteration number 484 is - 0.8344316482543945
+
+Growth execution time for iteration number 485 is - 0.8357021808624268
+
+Growth execution time for iteration number 486 is - 0.8371596336364746
+
+Growth execution time for iteration number 487 is - 0.8385801315307617
+
+Growth execution time for iteration number 488 is - 0.8400959968566895
+
+Growth execution time for iteration number 489 is - 0.841428279876709
+
+Growth execution time for iteration number 490 is - 0.8429543972015381
+
+Growth execution time for iteration number 491 is - 0.845604658126831
+
+Growth execution time for iteration number 492 is - 0.8471667766571045
+
+Growth execution time for iteration number 493 is - 0.8487558364868164
+
+Growth execution time for iteration number 494 is - 0.8502001762390137
+
+Growth execution time for iteration number 495 is - 0.8517026901245117
+
+Growth execution time for iteration number 496 is - 0.8531093597412109
+
+Growth execution time for iteration number 497 is - 0.8546125888824463
+
+Growth execution time for iteration number 498 is - 0.8560144901275635
+
+Growth execution time for iteration number 499 is - 0.8574433326721191
+
+Growth execution time for iteration number 500 is - 0.8589458465576172
+
+Growth execution time for iteration number 501 is - 0.8604850769042969
+
+Growth execution time for iteration number 502 is - 0.8620803356170654
+
+Growth execution time for iteration number 503 is - 0.8634815216064453
+
+Growth execution time for iteration number 504 is - 0.8648810386657715
+
+Growth execution time for iteration number 505 is - 0.8662803173065186
+
+Growth execution time for iteration number 506 is - 0.867628812789917
+
+Growth execution time for iteration number 507 is - 0.8692481517791748
+
+Growth execution time for iteration number 508 is - 0.8707127571105957
+
+Growth execution time for iteration number 509 is - 0.8720483779907227
+
+Growth execution time for iteration number 510 is - 0.8734207153320312
+
+Growth execution time for iteration number 511 is - 0.8750894069671631
+
+Growth execution time for iteration number 512 is - 0.8766648769378662
+
+Growth execution time for iteration number 513 is - 0.8781659603118896
+
+Growth execution time for iteration number 514 is - 0.879662036895752
+
+Growth execution time for iteration number 515 is - 0.881037712097168
+
+Growth execution time for iteration number 516 is - 0.8824918270111084
+
+Growth execution time for iteration number 517 is - 0.8840410709381104
+
+Growth execution time for iteration number 518 is - 0.8856518268585205
+
+Growth execution time for iteration number 519 is - 0.8869917392730713
+
+Growth execution time for iteration number 520 is - 0.8884706497192383
+
+Growth execution time for iteration number 521 is - 0.889894962310791
+
+Growth execution time for iteration number 522 is - 0.8915116786956787
+
+Growth execution time for iteration number 523 is - 0.8928642272949219
+
+Growth execution time for iteration number 524 is - 0.8943729400634766
+
+Growth execution time for iteration number 525 is - 0.8960421085357666
+
+Growth execution time for iteration number 526 is - 0.8976285457611084
+
+Growth execution time for iteration number 527 is - 0.8990612030029297
+
+Growth execution time for iteration number 528 is - 0.9005906581878662
+
+Growth execution time for iteration number 529 is - 0.9020340442657471
+
+Growth execution time for iteration number 530 is - 0.9034605026245117
+
+Growth execution time for iteration number 531 is - 0.9049232006072998
+
+Growth execution time for iteration number 532 is - 0.9065151214599609
+
+Growth execution time for iteration number 533 is - 0.9080939292907715
+
+Growth execution time for iteration number 534 is - 0.9096486568450928
+
+Growth execution time for iteration number 535 is - 0.9111199378967285
+
+Growth execution time for iteration number 536 is - 0.9125051498413086
+
+Growth execution time for iteration number 537 is - 0.9140653610229492
+
+Growth execution time for iteration number 538 is - 0.9155256748199463
+
+Growth execution time for iteration number 539 is - 0.9170408248901367
+
+Growth execution time for iteration number 540 is - 0.9185538291931152
+
+Growth execution time for iteration number 541 is - 0.9200899600982666
+
+Growth execution time for iteration number 542 is - 0.9217624664306641
+
+Growth execution time for iteration number 543 is - 0.923281192779541
+
+Growth execution time for iteration number 544 is - 0.924781322479248
+
+Growth execution time for iteration number 545 is - 0.9263744354248047
+
+Growth execution time for iteration number 546 is - 0.927854061126709
+
+Growth execution time for iteration number 547 is - 0.9293251037597656
+
+Growth execution time for iteration number 548 is - 0.9307971000671387
+
+Growth execution time for iteration number 549 is - 0.9322206974029541
+
+Growth execution time for iteration number 550 is - 0.9336502552032471
+
+Growth execution time for iteration number 551 is - 0.9351654052734375
+
+Growth execution time for iteration number 552 is - 0.9367682933807373
+
+Growth execution time for iteration number 553 is - 0.9384891986846924
+
+Growth execution time for iteration number 554 is - 0.9403238296508789
+
+Growth execution time for iteration number 555 is - 0.9419701099395752
+
+Growth execution time for iteration number 556 is - 0.9435181617736816
+
+Growth execution time for iteration number 557 is - 0.9452509880065918
+
+Growth execution time for iteration number 558 is - 0.946784496307373
+
+Growth execution time for iteration number 559 is - 0.9484395980834961
+
+Growth execution time for iteration number 560 is - 0.9500119686126709
+
+Growth execution time for iteration number 561 is - 0.9516861438751221
+
+Growth execution time for iteration number 562 is - 0.9540541172027588
+
+Growth execution time for iteration number 563 is - 0.9555120468139648
+
+Growth execution time for iteration number 564 is - 0.956946611404419
+
+Growth execution time for iteration number 565 is - 0.9583985805511475
+
+Growth execution time for iteration number 566 is - 0.9600636959075928
+
+Growth execution time for iteration number 567 is - 0.9617800712585449
+
+Growth execution time for iteration number 568 is - 0.9633338451385498
+
+Growth execution time for iteration number 569 is - 0.9649813175201416
+
+Growth execution time for iteration number 570 is - 0.9668183326721191
+
+Growth execution time for iteration number 571 is - 0.968475341796875
+
+Growth execution time for iteration number 572 is - 0.9699578285217285
+
+Growth execution time for iteration number 573 is - 0.9714024066925049
+
+Growth execution time for iteration number 574 is - 0.9738104343414307
+
+Growth execution time for iteration number 575 is - 0.9756901264190674
+
+Growth execution time for iteration number 576 is - 0.9777448177337646
+
+Growth execution time for iteration number 577 is - 0.9797389507293701
+
+Growth execution time for iteration number 578 is - 0.9820961952209473
+
+Growth execution time for iteration number 579 is - 0.9842042922973633
+
+Growth execution time for iteration number 580 is - 0.9865677356719971
+
+Growth execution time for iteration number 581 is - 0.9885609149932861
+
+Growth execution time for iteration number 582 is - 0.9909381866455078
+
+Growth execution time for iteration number 583 is - 0.9926013946533203
+
+Growth execution time for iteration number 584 is - 0.9943115711212158
+
+Growth execution time for iteration number 585 is - 0.9957265853881836
+
+Growth execution time for iteration number 586 is - 0.9974539279937744
+
+Growth execution time for iteration number 587 is - 0.9990112781524658
+
+Growth execution time for iteration number 588 is - 1.0008416175842285
+
+Growth execution time for iteration number 589 is - 1.0025129318237305
+
+Growth execution time for iteration number 590 is - 1.004201889038086
+
+Growth execution time for iteration number 591 is - 1.0057141780853271
+
+Growth execution time for iteration number 592 is - 1.007261037826538
+
+Growth execution time for iteration number 593 is - 1.0086333751678467
+
+Growth execution time for iteration number 594 is - 1.0100152492523193
+
+Growth execution time for iteration number 595 is - 1.0115153789520264
+
+Growth execution time for iteration number 596 is - 1.0129978656768799
+
+Growth execution time for iteration number 597 is - 1.0143911838531494
+
+Growth execution time for iteration number 598 is - 1.0160408020019531
+
+Growth execution time for iteration number 599 is - 1.018097162246704
+
+Growth execution time for iteration number 600 is - 1.0202956199645996
+
+Growth execution time for iteration number 601 is - 1.0220139026641846
+
+Growth execution time for iteration number 602 is - 1.0236327648162842
+
+Growth execution time for iteration number 603 is - 1.0250654220581055
+
+Growth execution time for iteration number 604 is - 1.0265274047851562
+
+Growth execution time for iteration number 605 is - 1.027961254119873
+
+Growth execution time for iteration number 606 is - 1.0296714305877686
+
+Growth execution time for iteration number 607 is - 1.0328106880187988
+
+Growth execution time for iteration number 608 is - 1.0346431732177734
+
+Growth execution time for iteration number 609 is - 1.036555290222168
+
+Growth execution time for iteration number 610 is - 1.0385918617248535
+
+Growth execution time for iteration number 611 is - 1.0404481887817383
+
+Growth execution time for iteration number 612 is - 1.0418689250946045
+
+Growth execution time for iteration number 613 is - 1.0432772636413574
+
+Growth execution time for iteration number 614 is - 1.044595718383789
+
+Growth execution time for iteration number 615 is - 1.0459909439086914
+
+Growth execution time for iteration number 616 is - 1.0476667881011963
+
+Growth execution time for iteration number 617 is - 1.0491209030151367
+
+Growth execution time for iteration number 618 is - 1.0506751537322998
+
+Growth execution time for iteration number 619 is - 1.0521047115325928
+
+Growth execution time for iteration number 620 is - 1.0536937713623047
+
+Growth execution time for iteration number 621 is - 1.0553853511810303
+
+Growth execution time for iteration number 622 is - 1.0567517280578613
+
+Growth execution time for iteration number 623 is - 1.0582544803619385
+
+Growth execution time for iteration number 624 is - 1.0598094463348389
+
+Growth execution time for iteration number 625 is - 1.0611786842346191
+
+Growth execution time for iteration number 626 is - 1.0635302066802979
+
+Growth execution time for iteration number 627 is - 1.0651261806488037
+
+Growth execution time for iteration number 628 is - 1.0666658878326416
+
+Growth execution time for iteration number 629 is - 1.0681543350219727
+
+Growth execution time for iteration number 630 is - 1.0696401596069336
+
+Growth execution time for iteration number 631 is - 1.0711586475372314
+
+Growth execution time for iteration number 632 is - 1.072566270828247
+
+Growth execution time for iteration number 633 is - 1.0740158557891846
+
+Growth execution time for iteration number 634 is - 1.0753741264343262
+
+Growth execution time for iteration number 635 is - 1.0766897201538086
+
+Growth execution time for iteration number 636 is - 1.0781700611114502
+
+Growth execution time for iteration number 637 is - 1.0796847343444824
+
+Growth execution time for iteration number 638 is - 1.0810368061065674
+
+Growth execution time for iteration number 639 is - 1.0825622081756592
+
+Growth execution time for iteration number 640 is - 1.0842311382293701
+
+Growth execution time for iteration number 641 is - 1.085768699645996
+
+Growth execution time for iteration number 642 is - 1.0873723030090332
+
+Growth execution time for iteration number 643 is - 1.0890135765075684
+
+Growth execution time for iteration number 644 is - 1.0906963348388672
+
+Growth execution time for iteration number 645 is - 1.0920917987823486
+
+Growth execution time for iteration number 646 is - 1.093907356262207
+
+Growth execution time for iteration number 647 is - 1.095379114151001
+
+Growth execution time for iteration number 648 is - 1.0972139835357666
+
+Growth execution time for iteration number 649 is - 1.0986580848693848
+
+Growth execution time for iteration number 650 is - 1.100019931793213
+
+Growth execution time for iteration number 651 is - 1.101409673690796
+
+Growth execution time for iteration number 652 is - 1.1026840209960938
+
+Growth execution time for iteration number 653 is - 1.1043767929077148
+
+Growth execution time for iteration number 654 is - 1.1058459281921387
+
+Growth execution time for iteration number 655 is - 1.1071689128875732
+
+Growth execution time for iteration number 656 is - 1.1086649894714355
+
+Growth execution time for iteration number 657 is - 1.110292673110962
+
+Growth execution time for iteration number 658 is - 1.1117031574249268
+
+Growth execution time for iteration number 659 is - 1.113088846206665
+
+Growth execution time for iteration number 660 is - 1.1146814823150635
+
+Growth execution time for iteration number 661 is - 1.116051197052002
+
+Growth execution time for iteration number 662 is - 1.1176652908325195
+
+Growth execution time for iteration number 663 is - 1.1189947128295898
+
+Growth execution time for iteration number 664 is - 1.120661973953247
+
+Growth execution time for iteration number 665 is - 1.1220853328704834
+
+Growth execution time for iteration number 666 is - 1.1236231327056885
+
+Growth execution time for iteration number 667 is - 1.1254000663757324
+
+Growth execution time for iteration number 668 is - 1.1269400119781494
+
+Growth execution time for iteration number 669 is - 1.1283624172210693
+
+Growth execution time for iteration number 670 is - 1.1299481391906738
+
+Growth execution time for iteration number 671 is - 1.1314735412597656
+
+Growth execution time for iteration number 672 is - 1.1337547302246094
+
+Growth execution time for iteration number 673 is - 1.1355440616607666
+
+Growth execution time for iteration number 674 is - 1.137437105178833
+
+Growth execution time for iteration number 675 is - 1.1388969421386719
+
+Growth execution time for iteration number 676 is - 1.1407725811004639
+
+Growth execution time for iteration number 677 is - 1.1425135135650635
+
+Growth execution time for iteration number 678 is - 1.1440622806549072
+
+Growth execution time for iteration number 679 is - 1.1455309391021729
+
+Growth execution time for iteration number 680 is - 1.1470186710357666
+
+Growth execution time for iteration number 681 is - 1.1486356258392334
+
+Growth execution time for iteration number 682 is - 1.1499896049499512
+
+Growth execution time for iteration number 683 is - 1.1516551971435547
+
+Growth execution time for iteration number 684 is - 1.1532306671142578
+
+Growth execution time for iteration number 685 is - 1.1552672386169434
+
+Growth execution time for iteration number 686 is - 1.15682053565979
+
+Growth execution time for iteration number 687 is - 1.1582889556884766
+
+Growth execution time for iteration number 688 is - 1.159724473953247
+
+Growth execution time for iteration number 689 is - 1.1612823009490967
+
+Growth execution time for iteration number 690 is - 1.1627585887908936
+
+Growth execution time for iteration number 691 is - 1.1642446517944336
+
+Growth execution time for iteration number 692 is - 1.1656415462493896
+
+Growth execution time for iteration number 693 is - 1.1669707298278809
+
+Growth execution time for iteration number 694 is - 1.168480634689331
+
+Growth execution time for iteration number 695 is - 1.1700153350830078
+
+Growth execution time for iteration number 696 is - 1.1724681854248047
+
+Growth execution time for iteration number 697 is - 1.1742298603057861
+
+Growth execution time for iteration number 698 is - 1.1757175922393799
+
+Growth execution time for iteration number 699 is - 1.1771502494812012
+
+Growth execution time for iteration number 700 is - 1.1786096096038818
+
+Growth execution time for iteration number 701 is - 1.1799798011779785
+
+Growth execution time for iteration number 702 is - 1.181302785873413
+
+Growth execution time for iteration number 703 is - 1.1826822757720947
+
+Growth execution time for iteration number 704 is - 1.1842832565307617
+
+Growth execution time for iteration number 705 is - 1.1856365203857422
+
+Growth execution time for iteration number 706 is - 1.1873126029968262
+
+Growth execution time for iteration number 707 is - 1.1886122226715088
+
+Growth execution time for iteration number 708 is - 1.1899323463439941
+
+Growth execution time for iteration number 709 is - 1.19144606590271
+
+Growth execution time for iteration number 710 is - 1.1928420066833496
+
+Growth execution time for iteration number 711 is - 1.1943564414978027
+
+Growth execution time for iteration number 712 is - 1.19577956199646
+
+Growth execution time for iteration number 713 is - 1.1973066329956055
+
+Growth execution time for iteration number 714 is - 1.198995590209961
+
+Growth execution time for iteration number 715 is - 1.2003426551818848
+
+Growth execution time for iteration number 716 is - 1.2017848491668701
+
+Growth execution time for iteration number 717 is - 1.2035105228424072
+
+Growth execution time for iteration number 718 is - 1.2057340145111084
+
+Growth execution time for iteration number 719 is - 1.207535982131958
+
+Growth execution time for iteration number 720 is - 1.2088301181793213
+
+Growth execution time for iteration number 721 is - 1.2102603912353516
+
+Growth execution time for iteration number 722 is - 1.2115757465362549
+
+Growth execution time for iteration number 723 is - 1.2128632068634033
+
+Growth execution time for iteration number 724 is - 1.2144756317138672
+
+Growth execution time for iteration number 725 is - 1.2159428596496582
+
+Growth execution time for iteration number 726 is - 1.2172060012817383
+
+Growth execution time for iteration number 727 is - 1.2186596393585205
+
+Growth execution time for iteration number 728 is - 1.2205314636230469
+
+Growth execution time for iteration number 729 is - 1.2221472263336182
+
+Growth execution time for iteration number 730 is - 1.22355318069458
+
+Growth execution time for iteration number 731 is - 1.224916934967041
+
+Growth execution time for iteration number 732 is - 1.2263588905334473
+
+Growth execution time for iteration number 733 is - 1.2276527881622314
+
+Growth execution time for iteration number 734 is - 1.228893518447876
+
+Growth execution time for iteration number 735 is - 1.2303805351257324
+
+Growth execution time for iteration number 736 is - 1.2317001819610596
+
+Growth execution time for iteration number 737 is - 1.2329373359680176
+
+Growth execution time for iteration number 738 is - 1.2345266342163086
+
+Growth execution time for iteration number 739 is - 1.2359967231750488
+
+Growth execution time for iteration number 740 is - 1.2374858856201172
+
+Growth execution time for iteration number 741 is - 1.2389140129089355
+
+Growth execution time for iteration number 742 is - 1.2403652667999268
+
+Growth execution time for iteration number 743 is - 1.2417182922363281
+
+Growth execution time for iteration number 744 is - 1.243032455444336
+
+Growth execution time for iteration number 745 is - 1.244493007659912
+
+Growth execution time for iteration number 746 is - 1.246000051498413
+
+Growth execution time for iteration number 747 is - 1.2473232746124268
+
+Growth execution time for iteration number 748 is - 1.248626708984375
+
+Growth execution time for iteration number 749 is - 1.2502589225769043
+
+Growth execution time for iteration number 750 is - 1.2516093254089355
+
+Growth execution time for iteration number 751 is - 1.252892017364502
+
+Growth execution time for iteration number 752 is - 1.2542438507080078
+
+Growth execution time for iteration number 753 is - 1.2556984424591064
+
+Growth execution time for iteration number 754 is - 1.2569842338562012
+
+Growth execution time for iteration number 755 is - 1.2583954334259033
+
+Growth execution time for iteration number 756 is - 1.2596840858459473
+
+Growth execution time for iteration number 757 is - 1.2610564231872559
+
+Growth execution time for iteration number 758 is - 1.2624554634094238
+
+Growth execution time for iteration number 759 is - 1.263840913772583
+
+Growth execution time for iteration number 760 is - 1.2654786109924316
+
+Growth execution time for iteration number 761 is - 1.266695499420166
+
+Growth execution time for iteration number 762 is - 1.2681477069854736
+
+Growth execution time for iteration number 763 is - 1.2695822715759277
+
+Growth execution time for iteration number 764 is - 1.2710726261138916
+
+Growth execution time for iteration number 765 is - 1.2725117206573486
+
+Growth execution time for iteration number 766 is - 1.2737398147583008
+
+Growth execution time for iteration number 767 is - 1.2750837802886963
+
+Growth execution time for iteration number 768 is - 1.2766027450561523
+
+Growth execution time for iteration number 769 is - 1.2779593467712402
+
+Growth execution time for iteration number 770 is - 1.2791297435760498
+
+Growth execution time for iteration number 771 is - 1.2804174423217773
+
+Growth execution time for iteration number 772 is - 1.289283275604248
+
+Growth execution time for iteration number 773 is - 1.2905409336090088
+
+Growth execution time for iteration number 774 is - 1.2920527458190918
+
+Growth execution time for iteration number 775 is - 1.2933034896850586
+
+Growth execution time for iteration number 776 is - 1.2946858406066895
+
+Growth execution time for iteration number 777 is - 1.296379566192627
+
+Growth execution time for iteration number 778 is - 1.2978706359863281
+
+Growth execution time for iteration number 779 is - 1.2991774082183838
+
+Growth execution time for iteration number 780 is - 1.3004395961761475
+
+Growth execution time for iteration number 781 is - 1.30194091796875
+
+Growth execution time for iteration number 782 is - 1.3033432960510254
+
+Growth execution time for iteration number 783 is - 1.304755687713623
+
+Growth execution time for iteration number 784 is - 1.306574821472168
+
+Growth execution time for iteration number 785 is - 1.30810546875
+
+Growth execution time for iteration number 786 is - 1.309476375579834
+
+Growth execution time for iteration number 787 is - 1.3108067512512207
+
+Growth execution time for iteration number 788 is - 1.312788724899292
+
+Growth execution time for iteration number 789 is - 1.3143110275268555
+
+Growth execution time for iteration number 790 is - 1.3160221576690674
+
+Growth execution time for iteration number 791 is - 1.3174793720245361
+
+Growth execution time for iteration number 792 is - 1.318760871887207
+
+Growth execution time for iteration number 793 is - 1.3201444149017334
+
+Growth execution time for iteration number 794 is - 1.321718454360962
+
+Growth execution time for iteration number 795 is - 1.3230414390563965
+
+Growth execution time for iteration number 796 is - 1.3246691226959229
+
+Growth execution time for iteration number 797 is - 1.3262383937835693
+
+Growth execution time for iteration number 798 is - 1.3278765678405762
+
+Growth execution time for iteration number 799 is - 1.329296350479126
+
+Growth execution time for iteration number 800 is - 1.3307788372039795
+
+Growth execution time for iteration number 801 is - 1.3320727348327637
+
+Growth execution time for iteration number 802 is - 1.3338038921356201
+
+Growth execution time for iteration number 803 is - 1.3351733684539795
+
+Growth execution time for iteration number 804 is - 1.3365027904510498
+
+Growth execution time for iteration number 805 is - 1.3378968238830566
+
+Growth execution time for iteration number 806 is - 1.3391845226287842
+
+Growth execution time for iteration number 807 is - 1.3407447338104248
+
+Growth execution time for iteration number 808 is - 1.342228651046753
+
+Growth execution time for iteration number 809 is - 1.3438186645507812
+
+Growth execution time for iteration number 810 is - 1.3451955318450928
+
+Growth execution time for iteration number 811 is - 1.346498966217041
+
+Growth execution time for iteration number 812 is - 1.3480730056762695
+
+Growth execution time for iteration number 813 is - 1.3495402336120605
+
+Growth execution time for iteration number 814 is - 1.3508377075195312
+
+Growth execution time for iteration number 815 is - 1.3522844314575195
+
+Growth execution time for iteration number 816 is - 1.3536152839660645
+
+Growth execution time for iteration number 817 is - 1.354858160018921
+
+Growth execution time for iteration number 818 is - 1.3561310768127441
+
+Growth execution time for iteration number 819 is - 1.3573338985443115
+
+Growth execution time for iteration number 820 is - 1.359015703201294
+
+Growth execution time for iteration number 821 is - 1.3604230880737305
+
+Growth execution time for iteration number 822 is - 1.3618049621582031
+
+Growth execution time for iteration number 823 is - 1.3630166053771973
+
+Growth execution time for iteration number 824 is - 1.3644335269927979
+
+Growth execution time for iteration number 825 is - 1.3658597469329834
+
+Growth execution time for iteration number 826 is - 1.3671023845672607
+
+Growth execution time for iteration number 827 is - 1.3685901165008545
+
+Growth execution time for iteration number 828 is - 1.369901418685913
+
+Growth execution time for iteration number 829 is - 1.3711981773376465
+
+Growth execution time for iteration number 830 is - 1.3805923461914062
+
+Growth execution time for iteration number 831 is - 1.3818445205688477
+
+Growth execution time for iteration number 832 is - 1.383166790008545
+
+Growth execution time for iteration number 833 is - 1.3844568729400635
+
+Growth execution time for iteration number 834 is - 1.3858060836791992
+
+Growth execution time for iteration number 835 is - 1.387007713317871
+
+Growth execution time for iteration number 836 is - 1.3883850574493408
+
+Growth execution time for iteration number 837 is - 1.3897604942321777
+
+Growth execution time for iteration number 838 is - 1.3917601108551025
+
+Growth execution time for iteration number 839 is - 1.393270492553711
+
+Growth execution time for iteration number 840 is - 1.3948054313659668
+
+Growth execution time for iteration number 841 is - 1.3963580131530762
+
+Growth execution time for iteration number 842 is - 1.3978238105773926
+
+Growth execution time for iteration number 843 is - 1.399334192276001
+
+Growth execution time for iteration number 844 is - 1.400691270828247
+
+Growth execution time for iteration number 845 is - 1.4021809101104736
+
+Growth execution time for iteration number 846 is - 1.4036023616790771
+
+Growth execution time for iteration number 847 is - 1.4050037860870361
+
+Growth execution time for iteration number 848 is - 1.406879186630249
+
+Growth execution time for iteration number 849 is - 1.4089059829711914
+
+Growth execution time for iteration number 850 is - 1.4105770587921143
+
+Growth execution time for iteration number 851 is - 1.412074089050293
+
+Growth execution time for iteration number 852 is - 1.4134862422943115
+
+Growth execution time for iteration number 853 is - 1.4151880741119385
+
+Growth execution time for iteration number 854 is - 1.4168636798858643
+
+Growth execution time for iteration number 855 is - 1.4183392524719238
+
+Growth execution time for iteration number 856 is - 1.4197726249694824
+
+Growth execution time for iteration number 857 is - 1.421410322189331
+
+Growth execution time for iteration number 858 is - 1.4229342937469482
+
+Growth execution time for iteration number 859 is - 1.4243512153625488
+
+Growth execution time for iteration number 860 is - 1.4258201122283936
+
+Growth execution time for iteration number 861 is - 1.4273803234100342
+
+Growth execution time for iteration number 862 is - 1.4287445545196533
+
+Growth execution time for iteration number 863 is - 1.43015456199646
+
+Growth execution time for iteration number 864 is - 1.431516408920288
+
+Growth execution time for iteration number 865 is - 1.432957649230957
+
+Growth execution time for iteration number 866 is - 1.4344825744628906
+
+Growth execution time for iteration number 867 is - 1.4360649585723877
+
+Growth execution time for iteration number 868 is - 1.4376640319824219
+
+Growth execution time for iteration number 869 is - 1.4390954971313477
+
+Growth execution time for iteration number 870 is - 1.440429449081421
+
+Growth execution time for iteration number 871 is - 1.4419384002685547
+
+Growth execution time for iteration number 872 is - 1.4432971477508545
+
+Growth execution time for iteration number 873 is - 1.4446015357971191
+
+Growth execution time for iteration number 874 is - 1.4463162422180176
+
+Growth execution time for iteration number 875 is - 1.4478340148925781
+
+Growth execution time for iteration number 876 is - 1.4491446018218994
+
+Growth execution time for iteration number 877 is - 1.4506199359893799
+
+Growth execution time for iteration number 878 is - 1.4519116878509521
+
+Growth execution time for iteration number 879 is - 1.4535536766052246
+
+Growth execution time for iteration number 880 is - 1.4548251628875732
+
+Growth execution time for iteration number 881 is - 1.4562091827392578
+
+Growth execution time for iteration number 882 is - 1.4577372074127197
+
+Growth execution time for iteration number 883 is - 1.4590578079223633
+
+Growth execution time for iteration number 884 is - 1.4603698253631592
+
+Growth execution time for iteration number 885 is - 1.4616668224334717
+
+Growth execution time for iteration number 886 is - 1.4629936218261719
+
+Growth execution time for iteration number 887 is - 1.4646975994110107
+
+Growth execution time for iteration number 888 is - 1.4665124416351318
+
+Growth execution time for iteration number 889 is - 1.4678046703338623
+
+Growth execution time for iteration number 890 is - 1.4699363708496094
+
+Growth execution time for iteration number 891 is - 1.4713354110717773
+
+Growth execution time for iteration number 892 is - 1.4729394912719727
+
+Growth execution time for iteration number 893 is - 1.4742839336395264
+
+Growth execution time for iteration number 894 is - 1.4756689071655273
+
+Growth execution time for iteration number 895 is - 1.4770746231079102
+
+Growth execution time for iteration number 896 is - 1.4785611629486084
+
+Growth execution time for iteration number 897 is - 1.4799110889434814
+
+Growth execution time for iteration number 898 is - 1.481255292892456
+
+Growth execution time for iteration number 899 is - 1.4828190803527832
+
+Growth execution time for iteration number 900 is - 1.4845895767211914
+
+Growth execution time for iteration number 901 is - 1.4860093593597412
+
+Growth execution time for iteration number 902 is - 1.4874136447906494
+
+Growth execution time for iteration number 903 is - 1.4887874126434326
+
+Growth execution time for iteration number 904 is - 1.4903104305267334
+
+Growth execution time for iteration number 905 is - 1.4919359683990479
+
+Growth execution time for iteration number 906 is - 1.4934182167053223
+
+Growth execution time for iteration number 907 is - 1.4951541423797607
+
+Growth execution time for iteration number 908 is - 1.4965887069702148
+
+Growth execution time for iteration number 909 is - 1.4980058670043945
+
+Growth execution time for iteration number 910 is - 1.4995038509368896
+
+Growth execution time for iteration number 911 is - 1.501164436340332
+
+Growth execution time for iteration number 912 is - 1.5026392936706543
+
+Growth execution time for iteration number 913 is - 1.5039899349212646
+
+Growth execution time for iteration number 914 is - 1.505312204360962
+
+Growth execution time for iteration number 915 is - 1.5068421363830566
+
+Growth execution time for iteration number 916 is - 1.5083088874816895
+
+Growth execution time for iteration number 917 is - 1.5097253322601318
+
+Growth execution time for iteration number 918 is - 1.5111312866210938
+
+Growth execution time for iteration number 919 is - 1.5125434398651123
+
+Growth execution time for iteration number 920 is - 1.5140876770019531
+
+Growth execution time for iteration number 921 is - 1.5157313346862793
+
+Growth execution time for iteration number 922 is - 1.5172605514526367
+
+Growth execution time for iteration number 923 is - 1.518815040588379
+
+Growth execution time for iteration number 924 is - 1.5202481746673584
+
+Growth execution time for iteration number 925 is - 1.5217583179473877
+
+Growth execution time for iteration number 926 is - 1.5232367515563965
+
+Growth execution time for iteration number 927 is - 1.5248477458953857
+
+Growth execution time for iteration number 928 is - 1.5265436172485352
+
+Growth execution time for iteration number 929 is - 1.5279555320739746
+
+Growth execution time for iteration number 930 is - 1.5295124053955078
+
+Growth execution time for iteration number 931 is - 1.5312163829803467
+
+Growth execution time for iteration number 932 is - 1.5326728820800781
+
+Growth execution time for iteration number 933 is - 1.5340547561645508
+
+Growth execution time for iteration number 934 is - 1.5358390808105469
+
+Growth execution time for iteration number 935 is - 1.5371627807617188
+
+Growth execution time for iteration number 936 is - 1.5385375022888184
+
+Growth execution time for iteration number 937 is - 1.5401322841644287
+
+Growth execution time for iteration number 938 is - 1.5418484210968018
+
+Growth execution time for iteration number 939 is - 1.5434815883636475
+
+Growth execution time for iteration number 940 is - 1.5452110767364502
+
+Growth execution time for iteration number 941 is - 1.5472867488861084
+
+Growth execution time for iteration number 942 is - 1.5489366054534912
+
+Growth execution time for iteration number 943 is - 1.5503666400909424
+
+Growth execution time for iteration number 944 is - 1.551769495010376
+
+Growth execution time for iteration number 945 is - 1.5533487796783447
+
+Growth execution time for iteration number 946 is - 1.5548887252807617
+
+Growth execution time for iteration number 947 is - 1.5564277172088623
+
+Growth execution time for iteration number 948 is - 1.5578291416168213
+
+Growth execution time for iteration number 949 is - 1.5592517852783203
+
+Growth execution time for iteration number 950 is - 1.5606880187988281
+
+Growth execution time for iteration number 951 is - 1.5624191761016846
+
+Growth execution time for iteration number 952 is - 1.5638597011566162
+
+Growth execution time for iteration number 953 is - 1.5654296875
+
+Growth execution time for iteration number 954 is - 1.5669357776641846
+
+Growth execution time for iteration number 955 is - 1.5683238506317139
+
+Growth execution time for iteration number 956 is - 1.5700020790100098
+
+Growth execution time for iteration number 957 is - 1.5717270374298096
+
+Growth execution time for iteration number 958 is - 1.5731494426727295
+
+Growth execution time for iteration number 959 is - 1.5746760368347168
+
+Growth execution time for iteration number 960 is - 1.576319932937622
+
+Growth execution time for iteration number 961 is - 1.5779685974121094
+
+Growth execution time for iteration number 962 is - 1.5793712139129639
+
+Growth execution time for iteration number 963 is - 1.580824613571167
+
+Growth execution time for iteration number 964 is - 1.582223653793335
+
+Growth execution time for iteration number 965 is - 1.5835459232330322
+
+Growth execution time for iteration number 966 is - 1.5848536491394043
+
+Growth execution time for iteration number 967 is - 1.586332082748413
+
+Growth execution time for iteration number 968 is - 1.587904930114746
+
+Growth execution time for iteration number 969 is - 1.5894420146942139
+
+Growth execution time for iteration number 970 is - 1.5909550189971924
+
+Growth execution time for iteration number 971 is - 1.5927619934082031
+
+Growth execution time for iteration number 972 is - 1.5943572521209717
+
+Growth execution time for iteration number 973 is - 1.5957493782043457
+
+Growth execution time for iteration number 974 is - 1.597430944442749
+
+Growth execution time for iteration number 975 is - 1.5992088317871094
+
+Growth execution time for iteration number 976 is - 1.6008069515228271
+
+Growth execution time for iteration number 977 is - 1.6023952960968018
+
+Growth execution time for iteration number 978 is - 1.6038212776184082
+
+Growth execution time for iteration number 979 is - 1.6052310466766357
+
+Growth execution time for iteration number 980 is - 1.6066899299621582
+
+Growth execution time for iteration number 981 is - 1.6082186698913574
+
+Growth execution time for iteration number 982 is - 1.6098918914794922
+
+Growth execution time for iteration number 983 is - 1.6115062236785889
+
+Growth execution time for iteration number 984 is - 1.6138372421264648
+
+Growth execution time for iteration number 985 is - 1.616081714630127
+
+Growth execution time for iteration number 986 is - 1.6177899837493896
+
+Growth execution time for iteration number 987 is - 1.6192412376403809
+
+Growth execution time for iteration number 988 is - 1.6206905841827393
+
+Growth execution time for iteration number 989 is - 1.6220817565917969
+
+Growth execution time for iteration number 990 is - 1.6237423419952393
+
+Growth execution time for iteration number 991 is - 1.626234769821167
+
+Growth execution time for iteration number 992 is - 1.6277217864990234
+
+Growth execution time for iteration number 993 is - 1.6291637420654297
+
+Growth execution time for iteration number 994 is - 1.6306931972503662
+
+Growth execution time for iteration number 995 is - 1.6320855617523193
+
+Growth execution time for iteration number 996 is - 1.6335761547088623
+
+Growth execution time for iteration number 997 is - 1.6352267265319824
+
+Growth execution time for iteration number 998 is - 1.6376125812530518
+
+Growth execution time for iteration number 999 is - 1.6391792297363281
+
+Growth execution time for iteration number 1000 is - 1.6414287090301514
+
+Growth execution time for iteration number 1001 is - 1.6430234909057617
+
+Growth function number of iterations, 1001, exceeded maximum growth iteration limit of 1000. Growth was terminated.
+
+Organism_0 took approximately 1.6531479358673096 seconds to grow.
+
+Growth execution time for iteration number 1 is - 0.004850864410400391
+
+Growth execution time for iteration number 2 is - 0.016811609268188477
+
+Growth execution time for iteration number 3 is - 0.061348676681518555
+
+Growth execution time for iteration number 4 is - 0.25501132011413574
+
+Growth execution time for iteration number 5 is - 0.9802165031433105
+
+Growth execution time for iteration number 6 is - 2.4894888401031494
+
+Organism_1 took approximately 2.7925589084625244 seconds to grow.
+
+Growth execution time for iteration number 1 is - 0.004497051239013672
+
+Growth execution time for iteration number 2 is - 0.017168045043945312
+
+Growth execution time for iteration number 3 is - 0.0753941535949707
+
+Growth execution time for iteration number 4 is - 0.3039252758026123
+
+Growth execution time for iteration number 5 is - 1.0300171375274658
+
+Growth execution time for iteration number 6 is - 2.5137743949890137
+
+Growth execution time for iteration number 7 is - 5.6309075355529785
+
+Growth execution time for iteration number 8 is - 10.756765127182007
+
+Growth execution time for iteration number 9 is - 21.42662286758423
+
+Growth execution time for iteration number 10 is - 31.66290521621704
+
+Organism_0 took approximately 37.41361713409424 seconds to grow.
+
+Growth execution time for iteration number 1 is - 0.005579233169555664
+
+Growth execution time for iteration number 2 is - 0.01134800910949707
+
+Growth execution time for iteration number 3 is - 0.027940750122070312
+
+Growth execution time for iteration number 4 is - 0.06265377998352051
+
+Growth execution time for iteration number 5 is - 0.12746167182922363
+
+Growth execution time for iteration number 6 is - 0.2998847961425781
+
+Growth execution time for iteration number 7 is - 0.6484322547912598
+
+Growth execution time for iteration number 8 is - 0.8710343837738037
+
+Organism_1 took approximately 1.0118076801300049 seconds to grow.
+
+Time to write Gen1_16167661343547548_LogTest_Organism_1with 254 cells took approx 0.1070394515991211s
+
+End of program!
+
+The program took 51.33118414878845 seconds to execute.
+
+

@@ -1,0 +1,12 @@
+Program starting at time - 1616943201.2978628
+Growth execution time for iteration number 1 is - 0.005189418792724609
+Growth execution time for iteration number 2 is - 0.010257720947265625
+Growth execution time for iteration number 3 is - 0.03023219108581543
+Growth execution time for iteration number 4 is - 0.06606364250183105
+Growth execution time for iteration number 5 is - 0.12631916999816895
+Growth execution time for iteration number 6 is - 0.17340970039367676
+Organism_0 took approximately 0.20742273330688477 seconds to grow.
+Time to write 16169432017971056_Cody_Organism_0with 50 cells took approx 0.021594524383544922s
+End of program!
+The program took 0.33106303215026855 seconds to execute.
+File complete

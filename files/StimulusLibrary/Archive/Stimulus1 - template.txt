@@ -1,0 +1,6 @@
+#Start of stimulus#
+#load magnitude direction application
+load 150 1.0,0.0,0.0 ud
+#support style location(x,y,z) intensity field_type
+support fixed 50,10,150 500 inverse_R
+#End of stimulus#

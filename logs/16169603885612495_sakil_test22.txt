@@ -1,0 +1,12 @@
+Program starting at time - 1616960387.9572227
+Growth execution time for iteration number 1 is - 0.004569053649902344
+Growth execution time for iteration number 2 is - 0.010922908782958984
+Growth execution time for iteration number 3 is - 0.02797842025756836
+Growth execution time for iteration number 4 is - 0.05348944664001465
+Growth execution time for iteration number 5 is - 0.0941319465637207
+Growth execution time for iteration number 6 is - 0.13128042221069336
+Organism_0 took approximately 0.15804791450500488 seconds to grow.
+Time to write 16169603885612495_sakil_test22_Organism_0with 52 cells took approx 0.02031230926513672s
+End of program!
+The program took 0.27844977378845215 seconds to execute.
+File complete

@@ -1,0 +1,17 @@
+Django
+Flask
+Flask-Bootstrap
+Flask-WTF
+Jinja2
+Mako
+paramiko
+python-dateutil
+python-dotenv
+python-editor
+pytz
+six
+waitress
+Werkzeug
+wrapt
+WTForms
+scp
