@@ -5,9 +5,9 @@ from scp import SCPClient
 import credential
 def uploadFile(filename):
 
-    hostname = '20.90.100.113' 
-    myuser   = 'biohaviour_cyclecloud'
-    mySSHK   = '/home/biohaviour_webserver/id_rsa.pub'
+    hostname = 'x.x.x.x' 
+    myuser   = 'xxxxxxxxx'
+    mySSHK   = 'xxxxxxxx'
     sshcon   = paramiko.SSHClient()  # will create the object
     sshcon.set_missing_host_key_policy(paramiko.AutoAddPolicy()) # no known_hosts error
     sshcon.connect(hostname, username=myuser, key_filename=mySSHK) # no passwd needed
