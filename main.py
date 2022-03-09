@@ -64,7 +64,7 @@ socketio = SocketIO(app, async_mode=async_mode)
 thread = None
 thread_lock = Lock()
 
-
+#This will use flaks websockets and get the log file that is being generated and then use the websocket to display the log file on the website in real time
 @socketio.event
 def my_event(message):
     filename = message.get('data')
@@ -119,13 +119,14 @@ def current_milli_time():
     randomSalt = str(round(time.time() * 1000)) + str(randint(1000, 9999))
     return randomSalt
 
-
+#Defines what files are allowed to be uploaded
 def allowed_file(filename):
     return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
 
 
 
-
+##This is the main code that will get all the variables from the user and do some decision making based on the variable to where best to run it i.e local on 
+#the webserver or pass it on onto the cluster in the azure cloud. It makes use of celery to be able to run the tasks in the background
 @celery.task
 def bwmMain(name, hormone, population, generation, stimuli, genome, test):
     print("")
@@ -232,7 +233,7 @@ def redirectUser(name):
     print("redirectUser method - " + name)
     return redirect('/stls/' + name)
 
-
+#This will get all the STL files that are generated and pass them to the frontend
 @app.route('/stls/<stlname>')
 def test(stlname):
     txtfiles = []
@@ -292,7 +293,7 @@ def test(stlname):
     my_code += "</div>"
     return render_template('downloads.html', text=my_code)
 
-
+#enables the download of the STL files
 @app.route('/stls/<stlname>', methods=['POST'])
 def testDown(stlname):
     if request.method == 'POST':
@@ -304,6 +305,7 @@ def testDown(stlname):
             return redirect('/download1/' + choice)
        # return redirect('/')
 
+#sets up the default files for dynamic operation so that if we add a new default file it get automatically added onto the front end
 @app.route('/')
 def webAppPage():
     stimulis = []
@@ -331,7 +333,7 @@ def rng():
     num3 = num + num2
     return num3
 
-
+#Get the variables from the form post and then send it to the BWM method to run the job
 @app.route('/', methods=['POST'])
 def webApp():
     a = []
